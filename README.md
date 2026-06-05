@@ -38,13 +38,3 @@ The animation is generated through a structured pipeline:
 7. Frames are rendered sequentially to produce animation.
 
 ---
-
-## Execution
-
-### Requirements
-- Python 3.x
-
-### Generate animation
-
-```bash
-python donut_gif.py
